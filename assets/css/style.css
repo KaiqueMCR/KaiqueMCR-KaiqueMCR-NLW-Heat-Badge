@@ -19,7 +19,7 @@ body {
 }
 
 main {
-  background: url(./images/background.svg) no-repeat center/cover;
+  background: url(../images/background.svg) no-repeat center/cover;
   width: 100vw;
   min-height: 812px;
 }
@@ -100,12 +100,12 @@ ul {
 
 @media screen and (min-width: 520px) {
   body {
-    background: url(./images/Desktop\ 1.jpg) no-repeat center/cover;
+    background: url(../images/Desktop\ 1.jpg) no-repeat center/cover;
     overflow: hidden;
   }
 
   main {
-    background: url(./images/desktopContainer.jpg) no-repeat center;
+    background: url(../images/desktopContainer.jpg) no-repeat center;
   }
 }
 
