@@ -3,7 +3,7 @@
 A virtual badge created during the NLW Heat event
 
 <h3 align="center">
-        <img src="./github/NLWBadge.png" />
+        <img src="./images/NLWBadge.png" />
     </h3>
 
 - HTML
