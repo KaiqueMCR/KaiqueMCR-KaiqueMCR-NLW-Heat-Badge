@@ -11,16 +11,14 @@
 
 </div>
 
-This is a virtual badge project developed during the NLW Heat event to help beginning developers reach the next level!
+A virtual badge created during the NLW Heat event
 
-![screenshot](./assets/images/NLWBadge.png)
-    
+[<img src="./assets/images/NLWBadge.png" />](https://kaiquemcr.github.io/KaiqueMCR-NLW-Heat-Badge/)
+
+<p align="center">Click on the image above to see in production 👆</p>
+
 ## Stack
 
 - HTML
 - CSS
 - Javascript
-
-## Production
-
-https://kaiquemcr.github.io/KaiqueMCR-NLW-Heat-Badge/
