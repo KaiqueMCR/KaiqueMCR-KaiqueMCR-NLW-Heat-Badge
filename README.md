@@ -11,13 +11,13 @@
 
 </div>
 
-A virtual badge created during the NLW Heat event
+🚀 A virtual badge created during the NLW Heat event
 
 [<img src="./assets/images/NLWBadge.png" />](https://kaiquemcr.github.io/KaiqueMCR-NLW-Heat-Badge/)
 
 <p align="center">Click on the image above to see in production 👆</p>
 
-## Stack
+## 👾 Technologies
 
 - HTML
 - CSS
