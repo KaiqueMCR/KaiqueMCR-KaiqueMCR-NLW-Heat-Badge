@@ -1,4 +1,4 @@
-# KaiqueMCR-NLW-Heat-Badge
+# 🚀 Next Level Week #7
 
 <div align="center">
 
@@ -11,11 +11,28 @@
 
 </div>
 
-🚀 A virtual badge created during the NLW Heat event
+<p align="center">
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+🔥 A virtual badge created during the NLW Heat event
+
+## Screenshot
 
 [<img src="./assets/images/NLWBadge.png" />](https://kaiquemcr.github.io/KaiqueMCR-NLW-Heat-Badge/)
 
 <p align="center">Click on the image above to see in production 👆</p>
+
+## 💻 Project
+
+The DoWhile Virtual Badge is a static application with the objective of showing the user information brought from the GitHub API and inserting it in a layout with the face of the DoWhile 2021 event
+
+## 🔖 Layout
+
+You can view the project layout through [this link](https://www.figma.com/file/9Z2vxc8VTRuZpYjFalCMAl/Badge-Do-While2021-(Copy)?node-id=0%3A1). 
+You need an account on [Figma](https://figma.com) to access it.
 
 ## 👾 Technologies
 
